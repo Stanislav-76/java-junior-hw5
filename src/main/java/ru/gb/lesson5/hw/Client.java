@@ -1,5 +1,4 @@
-package ru.gb.lesson5;
-
+package ru.gb.lesson5.hw;
 
 import java.io.IOException;
 import java.io.PrintWriter;
